@@ -4,6 +4,7 @@ This repository contains sales data from a fictional SuperStore. The dataset inc
 
 ## 📁 Dataset
 - **File:** `SuperStore_Sales_Dataset.csv`
+- **Tool Used:** Microsoft Power BI
 - **Columns:** Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Profit, Returns, Payment Mode, ind1, ind2
 
 
