@@ -1,4 +1,5 @@
-![Screenshot 2025-02-15 162826](https://github.com/user-attachments/assets/852b9da6-e899-4c66-9ea8-0ba32865fd09) # 📊 SuperStore Sales Analysis
+![Screenshot 2025-02-15 165223](https://github.com/user-attachments/assets/63d8469a-d199-4f5f-b186-1106e77ec545)
+ # 📊 SuperStore Sales Analysis
 
 This repository contains sales data from a fictional SuperStore. The dataset includes information on orders, customers, products, sales, and profits. The goal is to analyze trends, identify insights,build useful data visualizations and improve business strategies. 
 
@@ -37,10 +38,6 @@ To ensure data quality, the following cleaning steps were applied to the **Super
    - Removed extra spaces and special characters.  
 
 The cleaned dataset is saved as **SuperStore_Sales_Cleaned.csv** and is ready for analysis. 🚀
-
-
-![Screenshot 2025-02-15 162803](https://github.com/user-attachments/assets/b03a3196-8476-4212-b294-12816ad51d9c)
-
 📊This repository contains a Power BI dashboard that visualizes Super Store Sales Data, providing insights into sales, profit, and product performance across different categories, segments, and regions.
 
 🔥 Dashboard Overview
@@ -66,10 +63,15 @@ Sum of Profit by Month and Year: Line chart displaying profit variations over mo
 
 📌 Category-wise Sales Breakdown
 Sales by SubCategory
-This bar chart displays sales performance by product subcategories:
+This bar chart displays sales performance by product subcategories
 
 Sales by Category
-This visualization shows sales totals by broader product categories:
+This visualization shows sales totals by broader product categories
+
+## 📊 Dashboard Overview
+![Screenshot 2025-02-15 162803](https://github.com/user-attachments/assets/b03a3196-8476-4212-b294-12816ad51d9c)
+
+
 
 
 
