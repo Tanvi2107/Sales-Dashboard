@@ -38,6 +38,7 @@ To ensure data quality, the following cleaning steps were applied to the **Super
    - Removed extra spaces and special characters.  
 
 The cleaned dataset is saved as **SuperStore_Sales_Cleaned.csv** and is ready for analysis. 🚀
+
 📊This repository contains a Power BI dashboard that visualizes Super Store Sales Data, providing insights into sales, profit, and product performance across different categories, segments, and regions.
 
 🔥 Dashboard Overview
@@ -51,9 +52,7 @@ This visualization breaks down sales by customer segments:
 3️⃣ Sales by Ship Mode
 Sales distribution based on shipping methods
 
- 📌 Sales by Category
- ![Category Sales](https://github.com/user-attachments/assets/04cc096d-54bd-43be-8e90-de4890c1d7df)
-
+![Category Sales](https://github.com/user-attachments/assets/04cc096d-54bd-43be-8e90-de4890c1d7df)
 
 4️⃣ Sales & Profit Trends
 Sum of Sales by Month and Year: Line chart showing monthly sales trends for different years.
@@ -68,7 +67,10 @@ This bar chart displays sales performance by product subcategories
 Sales by Category
 This visualization shows sales totals by broader product categories
 
-## 📊 Dashboard Overview
+![Category-wise Sales Breakdown](https://github.com/user-attachments/assets/790e60df-184a-41ff-907b-ed56bb2396a2)
+
+## 📊 Dashboard Preview
+Final Result 
 ![Screenshot 2025-02-15 162803](https://github.com/user-attachments/assets/b03a3196-8476-4212-b294-12816ad51d9c)
 
 
